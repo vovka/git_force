@@ -1,0 +1,5 @@
+---
+remote_path: /path/to/p4/branch/which/acts/as/remote
+local_copy_path: /path/to/git/working/directory
+remote: remote_name_for_p4_branch
+depot_files: //depot/path/...
